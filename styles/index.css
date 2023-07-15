@@ -30,17 +30,15 @@ body {
     font-size: 24px;
     font-weight: 700;
     text-transform: uppercase;
-    padding-bottom: 30px;
+    padding-bottom: 64px;
 }
 
 .bannar-contain {
-    height: 90vh;
+    height: 80vh;
     display: flex;
     justify-content: space-between;
     align-items: center;
-    text-align: left;
     gap: 118px;
-    margin-bottom: 100px;
 }
 
 .bannar-img img {

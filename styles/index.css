@@ -80,7 +80,7 @@ body {
     font-style: normal;
     font-weight: 700;
     line-height: normal;
-    letter-spacing: -0.49px;
+    word-spacing: 5px;
     width: 250px;
     height: 68px;
     flex-shrink: 0;
